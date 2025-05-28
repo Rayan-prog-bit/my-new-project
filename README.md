@@ -1,4 +1,4 @@
-### 1. Your Idea in a Nutshell
+### 1. Summary
 
 **Project Name:** AI-Powered Accessibility Assistant
 
