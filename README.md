@@ -1,3 +1,5 @@
+# My New Project.
+This is a project to test GitHub submission and improve accessibility using AI tools.
 ### 1. Summary
 
 **Project Name:** AI-Powered Accessibility Assistant
