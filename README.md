@@ -2,10 +2,8 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Final project for the Building AI course
-
-AI-Powered Accessibility Assistant
-
+# AI-Powered Accessibility Assistant
+Idea for a software that uses AI methods to assist users with disabilities by enhancing digital accessibility
 ## Summary
 
 Our project is an AI-driven platform designed to enhance digital accessibility for individuals with visual impairments or other disabilities. It uses computer vision, natural language processing (NLP), and speech synthesis to provide real-time descriptions of images, explain user interface (UI) elements, and offer guidance on navigating digital content. The assistant integrates seamlessly into web browsers and mobile applications to ensure that information is accessible to everyone.
