@@ -1,31 +1,32 @@
-# My New Project.
-This is a project to test GitHub submission and improve accessibility using AI tools.
-### 1. Summary
+<!-- This is the markdown template for the final project of the Building AI course, 
+created by Reaktor Innovations and University of Helsinki. 
+Copy the template, paste it to your GitHub README and edit! -->
 
-**Project Name:** AI-Powered Accessibility Assistant
+# Project Title
 
-**Brief Description:**
+AI-Powered Accessibility Assistant
+
+## Summary
+
 Our project is an AI-driven platform designed to enhance digital accessibility for individuals with visual impairments or other disabilities. It uses computer vision, natural language processing (NLP), and speech synthesis to provide real-time descriptions of images, explain user interface (UI) elements, and offer guidance on navigating digital content. The assistant integrates seamlessly into web browsers and mobile applications to ensure that information is accessible to everyone.
 
----
 
-### 2. Background
+##  Background
 
 **The Problem:**
 Millions of people worldwide face challenges when accessing online content due to visual impairments or motor difficulties. Traditional web content is often not optimized for assistive technologies, leaving users to struggle with image-based content, non-intuitive interfaces, or lack of descriptive metadata.
 
-* **Frequency of the Problem:**
+ **Frequency of the Problem:**
   According to the World Health Organization, over a billion people live with some form of disability. A significant portion of this population relies on assistive devices that often fail to keep up with rapidly evolving technology trends on digital platforms.
 
-* **Personal Motivation:**
+ **Personal Motivation:**
   Our team is driven by a shared passion for inclusivity and the belief that technological advances should benefit everyone. Having experienced firsthand the difficulties faced by family members with disabilities, we are committed to leveraging AI to empower people with disabilities to navigate the digital world more confidently.
 
 * **Why It’s Important/Interesting:**
   This project not only addresses an urgent societal need but also challenges the current limitations of automated accessibility tools. By innovating in this space, we aim to contribute to a more inclusive digital future where everyone has equal access to online information.
 
----
 
-### 3. Data and AI Techniques
+## 3. Data and AI Techniques
 
 **Data Sources:**
 
@@ -47,9 +48,9 @@ Millions of people worldwide face challenges when accessing online content due t
 
 For those inclined to develop a concrete demo, a proof-of-concept might involve using an image captioning API and integrating a browser extension that reads out descriptions for images encountered on a webpage.
 
----
 
-### 4. How Is It Used
+
+## 4. How Is It Used
 
 **Context of Use:**
 
@@ -63,9 +64,8 @@ For those inclined to develop a concrete demo, a proof-of-concept might involve 
 **User Experience:**
 The assistant operates in the background, activating when it detects inaccessible content. It then provides a synthesized audio explanation or text overlay describing images, buttons, and links, thereby bridging the gap between traditional content and accessible information delivery.
 
----
 
-### 5. Challenges
+## Challenges
 
 **What the Project Does Not Solve:**
 
@@ -80,9 +80,9 @@ The assistant operates in the background, activating when it detects inaccessibl
 
 Understanding these limitations is crucial for continuously evolving the solution and for setting accurate expectations with users and stakeholders.
 
----
 
-### 6. What Next
+
+## What Next
 
 **Future Developments:**
 
@@ -99,7 +99,7 @@ Understanding these limitations is crucial for continuously evolving the solutio
 
 ---
 
-### 7. Acknowledgments
+## Acknowledgments
 
 **Credits and Inspirations:**
 
